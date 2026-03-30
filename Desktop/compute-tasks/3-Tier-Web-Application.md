@@ -35,7 +35,7 @@ Design and deploy a highly available, scalable, fault-tolerant web application c
 
 **Simplified Architecture Flow:**
 
-![preview](images/image.PNG)
+![preview](images/image.png)
 **Components:**
 
 1. **VPC:**
